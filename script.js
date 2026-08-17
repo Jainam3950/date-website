@@ -3,7 +3,7 @@
 ========================== */
 
 const birthdayDate = new Date(
-    "August 27, 2026 00:00:00"
+    "August 26, 2026 00:00:00"
 ).getTime();
 
 
